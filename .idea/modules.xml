@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CustomWorld.iml" filepath="$PROJECT_DIR$/CustomWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/pullscrollviewlib/pullscrollviewlib.iml" filepath="$PROJECT_DIR$/pullscrollviewlib/pullscrollviewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updatelib/updatelib.iml" filepath="$PROJECT_DIR$/updatelib/updatelib.iml" />
     </modules>
   </component>
 </project>
